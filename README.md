@@ -1,4 +1,6 @@
-## Hi there 👋
+# Le Huu Son Hai 👋
+
+## About me 
 
 <!--
 **sonhai1401/sonhai1401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
