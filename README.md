@@ -36,9 +36,7 @@ Long-term, I aim to become a skilled Data Engineer, building impactful data-driv
   <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
-</p>
+<p align="left"> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=OpenCV&logoColor=black" /> <img src="https://img.shields.io/badge/Model%20Pipeline-6A5ACD?style=flat-square" /> <img src="https://img.shields.io/badge/Hyperparameter%20Tuning-8A2BE2?style=flat-square" /> </p>
 
 ---
 
@@ -48,15 +46,3 @@ Long-term, I aim to become a skilled Data Engineer, building impactful data-driv
 
 <!--
 **sonhai1401/sonhai1401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
