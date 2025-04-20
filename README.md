@@ -1,7 +1,10 @@
 # Le Huu Son Hai 👋
 
 ## About me 
-
+I’m a third-year IT, majoring in Data Technology. I’m passionate about data engineering
+and actively seeking opportunities to grow through roles like Data Scientist, Database Administrator, or in Machine
+Learning and Deep Learning. My short-term goal is to gain hands-on experience through projects and internships.
+Long-term, I aim to become a skilled Data Engineer, building impactful data-driven solutions.
 <!--
 **sonhai1401/sonhai1401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
