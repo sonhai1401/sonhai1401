@@ -32,8 +32,8 @@ Long-term, I aim to become a skilled Data Engineer, building impactful data-driv
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=sonhai1401&show_icons=true&theme=radical" />
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=sonhai1401&theme=radical" />
 </p>
 
 <p align="center">
