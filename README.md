@@ -73,6 +73,6 @@ Long-term, I aim to become a skilled Data Engineer, building impactful data-driv
 ## 🔗 Connect with me
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/lhsai141)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lehuusonhai@gmail.com)
-
+<p align="left"> <a href="https://www.linkedin.com/in/hai-le-n14t1/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> </p>
 <!--
 **sonhai1401/sonhai1401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
