@@ -1,6 +1,6 @@
 # Le Huu Son Hai 👋
 
-## About me 
+### About me 
 I’m a third-year IT, majoring in Data Technology. I’m passionate about data engineering
 and actively seeking opportunities to grow through roles like Data Scientist, Database Administrator, or in Machine
 Learning and Deep Learning. My short-term goal is to gain hands-on experience through projects and internships.
