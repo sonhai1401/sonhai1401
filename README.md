@@ -62,7 +62,6 @@ Long-term, I aim to become a skilled Data Engineer, building impactful data-driv
 
 <p align="left">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=sonhai1401&show_icons=true&theme=radical" />
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=sonhai1401&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -72,5 +71,3 @@ Long-term, I aim to become a skilled Data Engineer, building impactful data-driv
 
 ## 🔗 Connect with me
 <p align="left"> <a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://facebook.com/lhsai141" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /> </a> <a href="mailto:lehuusonhai@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> </a> </p>
-
-**sonhai1401/sonhai1401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
